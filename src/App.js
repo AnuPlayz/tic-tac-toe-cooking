@@ -8,8 +8,17 @@ export function Box({ triggeredBy, onClick }) {
     </div>
   );
 }//now u make a reset button without my help ;-;
-
-//;-; its because we are putting onClick on a custom component but we didnt pass it to div
+//open cmd
+//type this
+//git clone https://put the link here
+//after this open it the folder and run cmd there
+// npm i yarn -g # for installing yarn 
+// yarn # for installing our project packages
+// yarn start # for running the website
+//run above commands to start the code
+//if u encounter any problem dm me @ discord ;-;
+//how to access from github tho ;-;
+//;-; its because we are putting onClick on a custom cos
 function App() {
   const [board, setBoard] = React.useState([
     "", "", "",
